@@ -1,0 +1,22 @@
+{
+  "name": "test-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lharrylock/test-electron-app.git"
+  },
+  "author": "Lisa Harrylock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lharrylock/test-electron-app/issues"
+  },
+  "homepage": "https://github.com/lharrylock/test-electron-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
